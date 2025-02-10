@@ -1,6 +1,6 @@
 # Hospital Website 🩺💉🩸💊🩹🏥
 
-Welcome to the **Hospital Website** project! This is a responsive and visually appealing website designed to showcase the menu, services, and ambiance of a restaurant. Built with **HTML**, **CSS**, **JavaScript** and **Bootatrap**, it provides an engaging user experience and adapts seamlessly to various devices.
+Welcome to the **Hospital Website** project! This is a responsive and visually appealing website designed to showcase the review, services, and ambiance of a hospital. Built with **HTML**, **CSS**, **JavaScript** and **Bootatrap**, it provides an engaging user experience and adapts seamlessly to various devices.
 
 ## Features 🚀
 
